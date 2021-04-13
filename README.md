@@ -2,6 +2,8 @@
 
 <h2 align="center"> A software developer from Turkey </h2>
 
+* I'm working full stack.
+* I developing security softwares.
 * All of my projects are available at https://github.com/halitozerr?tab=repositories
 
 ### Connect with me:
