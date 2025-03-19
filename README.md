@@ -65,7 +65,7 @@ A **leading cybersecurity & software training academy** that provides hands-on t
 ---
 
 ## 📊 GitHub Stats
-![Halit's GitHub stats](https://github-readme-stats.vercel.app/api?username=halitozerr&show_icons=true&theme=dark)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halitozerr&layout=compact&theme=dark)
 
@@ -73,7 +73,6 @@ A **leading cybersecurity & software training academy** that provides hands-on t
 
 ## 📫 Connect with Me
 
-- 📧 Email: mustafahalitozer@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/mustafahalitozer)  
 - 🏢 [OZZACADEMY](https://www.ozzacademy.com/)  
 - 💬 [GitHub Discussions](https://github.com/halitozerr)  
