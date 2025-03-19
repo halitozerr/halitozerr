@@ -4,7 +4,10 @@
 
 I'm a **full-stack software developer** and a **cybersecurity specialist** from Turkey 🇹🇷. I have a strong passion for developing innovative security solutions, log management systems, and SIEM technologies. My focus is on creating scalable, high-performance applications that address real-world cybersecurity challenges.
 
-- 💻 Founder of **OZZACADEMY** - A cybersecurity and software training academy.
+- 💻 **Founder & Co-Founder of:**
+  - **OZZTECH** - Cybersecurity & Software Company
+  - **ORIANATECH** - Next-gen log management & SIEM solutions
+  - **OZZACADEMY** - Cybersecurity and software training academy
 - 🔐 Creator of **OrianaLOG** - An advanced log management and security monitoring solution.
 - 📊 Currently working on **OrianaSIEM & OrianaSOAR** - Next-gen SIEM & SOAR projects.
 - 🎓 Instructor and mentor, helping students become software professionals.
